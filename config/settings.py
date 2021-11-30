@@ -30,7 +30,7 @@ SECRET_KEY = os.getenv('MY_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['my-todo1-api.herokuapp.com']
 
 
 # Application definition
